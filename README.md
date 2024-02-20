@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about React
-- 📫 How to reach me: phani.yadav0@gmail.com
+- 📫 How to reach me: phaneendra.pallapothu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love going places
